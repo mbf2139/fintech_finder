@@ -47,7 +47,7 @@ To launch the Streamlit application type the following:
         
 On the resulting webpage, select a candidate that you would like to hire. Then, enter the number of hours that you would like to hire them for.
 Click the Send Transaction button to sign and send the transaction with your Ethereum account information.
-Navigate to the Ganache accounts tab and locate your account (index 0).
+Navigate to the Ganache accounts tab and locate your account .
 Navigate to the Ganache transactions tab and locate the transaction.
 
 ---
@@ -57,3 +57,15 @@ Navigate to the Ganache transactions tab and locate the transaction.
 ![ganache](Images/ganache.png)
 ![transaction](Images/transaction.png)
 ![transactions](Images/transactions.png)
+
+---
+## Contributors
+
+The starter code was contributed by the [FinTech Bootcamp at Columbia Engineering](https://bootcamp.cvn.columbia.edu/fintech/)
+
+Matthew Field finalized the application, his work is availble to view on [Github](https://github.com/mbf2139)
+
+---
+## License
+
+MIT
